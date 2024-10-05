@@ -1,6 +1,6 @@
 # Fildem
 
-## Global menu for Gnome
+## Global menu for Gnome maintained by me to support latest gnome versions 
 
 [![Buy Me A Coffee](https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg)](https://buymeacoffee.com/gonza)
 
